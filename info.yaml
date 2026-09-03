@@ -26,8 +26,8 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
+  uo[0]: "SUMA"
+  uo[1]: "COUT"
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""
@@ -36,8 +36,8 @@ pinout:
   uo[7]: ""
 
   # Bidirectional pins
-  uio[0]: "SUMA"
-  uio[1]: "COUT"
+  uio[0]: ""
+  uio[1]: ""
   uio[2]: ""
   uio[3]: ""
   uio[4]: ""
